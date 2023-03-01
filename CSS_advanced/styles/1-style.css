@@ -1,0 +1,5 @@
+html {
+    /*instructions -> values */
+    scroll-behavior: auto;
+    scroll-behavior: smooth;
+}
