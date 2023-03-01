@@ -54,10 +54,10 @@ a:visited{
     font-style: italic;
 }
 a:hover{
-    text-decoration: overline;
+    text-decoration: underline;
 }
 a:active{
-    color: var(--color-light-grey)
+    background-color: var(--color-light-grey)
 }
 .visually-hidden{
     /* elements class */
