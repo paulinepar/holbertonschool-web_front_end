@@ -1,0 +1,25 @@
+html {
+    /*instructions -> values */
+    scroll-behavior: auto;
+    scroll-behavior: smooth;
+}
+body {
+    /*body */
+    color:#161616;
+}
+a {
+    /* anchor */
+    color:#161616;
+}
+.visually-hidden {
+    /* elements class */
+    display: none;
+}
+.card-category {
+    /* elements class */
+    color: #073953;
+}
+.section-tagline {
+    /* elements class */
+    color: #073953;
+}
