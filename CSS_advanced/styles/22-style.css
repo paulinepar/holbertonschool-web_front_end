@@ -49,11 +49,6 @@
     /* section tagline margin */
     --section-tagline-margin: 0;
 }
-[data-section-theme=“dark”]{
-    background-color: var(--color-black);
-    --text-color: var(--color-white);
-    --section-title-color: var(--color-white)
-}
 *, *:before, *:after{
     box-sizing: border-box;
 }
@@ -84,6 +79,11 @@ a:hover{
 }
 a:active{
     background-color: var(--color-light-grey)
+}
+[data-section-theme=“dark”]{
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white)
+    background-color: var(--color-black);
 }
 .visually-hidden{
     /* elements class */
