@@ -105,7 +105,7 @@ a:active{
     --text-color: var(--color-white);
     --section-title-color: var(--color-white);
     background-color: var(--color-black);
-    --button-color: var(var(--color-white));
+    --button-color: var(--color-white);
 }
 .visually-hidden{
     /* elements class */
