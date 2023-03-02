@@ -229,6 +229,7 @@ h1, h2, h3, h4, h5, h6{
 .nav .nav-link::before{
     content: "";
     position: absolute;
+    left: 0;
     top: 0;
     color: var(--color-white);
     width: 0;
